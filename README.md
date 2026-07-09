@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" alt="mateo@gabus — creative developer" width="100%" />
 </div>
 
-<div align="right"><sub><strong>EN</strong> · <a href="#-versión-en-español">ES ↓</a></sub></div>
+<div align="right"><sub><strong>EN</strong> · 🇦🇷 versión en español al final ↓</sub></div>
 
 ## Hey, I'm Mateo 👋
 
