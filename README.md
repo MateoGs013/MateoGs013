@@ -38,6 +38,16 @@ Desarrollador **full stack** de Argentina, 22 años — aunque donde más disfru
   <img src="https://img.shields.io/badge/MySQL-0b0b0f?style=flat-square&logo=mysql&logoColor=4479a1" alt="MySQL" />
 </p>
 
+## Cómo trabajo
+
+Programo en pareja con IA — el famoso **vibe coding**, sin esconderlo. Claude Code vive en mi flujo diario: la dirección creativa, la arquitectura y el gusto son míos; la velocidad es compartida. Por eso mis repos versionan su configuración de agentes (`.claude/`, `AGENTS.md`) y mis commits llevan co-autoría real.
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-0b0b0f?style=flat-square&logo=claude&logoColor=d97757" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-0b0b0f?style=flat-square&logo=openai&logoColor=ffffff" alt="Codex" />
+  <img src="https://img.shields.io/badge/Gemini-0b0b0f?style=flat-square&logo=googlegemini&logoColor=4796e3" alt="Gemini" />
+</p>
+
 ## Contacto
 
 📫 **mateogabus@gmail.com**
@@ -65,6 +75,10 @@ Desarrollador **full stack** de Argentina, 22 años — aunque donde más disfru
 | **[Ynara-Web](https://github.com/MateoGs013/Ynara-Web)** | Immersive WebGL site: a form of light that morphs as you scroll. **Da Vinci thesis, 2026.** | `TypeScript` `WebGL` `GSAP` |
 | **[Eros](https://github.com/MateoGs013/eros)** | An autonomous creative director with its brain in an Obsidian vault. | `Vue 3` `GSAP` `Lenis` |
 | **[revelado](https://github.com/MateoGs013/revelado)** | A social network for photographers, built in phases as a university project. | `Vue 3` |
+
+### How I work
+
+I pair-program with AI — yes, **vibe coding**, out in the open. Claude Code lives in my daily flow: creative direction, architecture and taste are mine; the speed is shared. That's why my repos version their agent config (`.claude/`, `AGENTS.md`) and my commits carry honest co-authorship.
 
 ### Contact
 
