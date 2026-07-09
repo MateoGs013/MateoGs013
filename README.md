@@ -1,25 +1,25 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="mateo@gabus — creative developer" width="100%" />
+  <img src="assets/banner.svg" alt="mateo@sonzogni — desarrollador full stack" width="100%" />
 </div>
 
-<div align="right"><sub><strong>EN</strong> · 🇦🇷 versión en español al final ↓</sub></div>
+<div align="right"><sub>🇦🇷 <strong>ES</strong> · English version at the end ↓</sub></div>
 
-## Hey, I'm Mateo 👋
+## Hola, soy Mateo 👋
 
-I build **immersive web experiences** — interfaces that move, respond and feel alive. Most of my work lives at the creative edge of the frontend: **Vue 3, GSAP, WebGL** and smooth-scroll storytelling. I also ship what's underneath: REST APIs, Laravel and Node backends.
+Desarrollador **full stack** de Argentina, 22 años — aunque donde más disfruto es el **front-end**: interfaces que se mueven, responden y se sienten vivas. Trabajo en el borde creativo de la web con **Vue 3, GSAP y WebGL**, y también construyo lo de abajo: APIs REST, backends en Laravel y Node.
 
-- 🎓 Thesis year at **Escuela Da Vinci** — class of 2026
-- 🧠 Currently building **[Ynara](https://github.com/BriarDevv/Ynara)**, an on-prem adaptive AI personal assistant
-- 🌒 Into dark UIs, editorial typography and terminals
+- 🎓 Año de tesis en **Escuela Da Vinci** — promoción 2026
+- 🧠 Construyendo **[Ynara](https://github.com/BriarDevv/Ynara)**, un asistente personal de IA adaptativo y on-prem
+- 🌒 Me gustan las UIs oscuras, la tipografía editorial y las terminales
 
-## Featured work
+## Proyectos destacados
 
-| Project | About | Stack |
+| Proyecto | Qué es | Stack |
 | :--- | :--- | :--- |
-| **[Ynara](https://github.com/BriarDevv/Ynara)** | On-prem adaptive AI assistant that speaks rioplatense Spanish, with encrypted semantic / episodic / procedural memory. **Core contributor — 380+ commits.** | `FastAPI` `Next.js` `Expo` `pgvector` `Ollama` |
-| **[Ynara-Web](https://github.com/MateoGs013/Ynara-Web)** | Immersive WebGL site: a form of light that morphs as you scroll. **Da Vinci thesis, 2026.** | `TypeScript` `WebGL` `GSAP` |
-| **[Eros](https://github.com/MateoGs013/eros)** | An autonomous creative director with its brain in an Obsidian vault. | `Vue 3` `GSAP` `Lenis` |
-| **[revelado](https://github.com/MateoGs013/revelado)** | A social network for photographers, built in phases as a university project. | `Vue 3` |
+| **[Ynara](https://github.com/BriarDevv/Ynara)** | Asistente de IA adaptativo, on-prem y en rioplatense, con memoria cifrada semántica / episódica / procedural. **Contribuidor principal — más de 380 commits.** | `FastAPI` `Next.js` `Expo` `pgvector` `Ollama` |
+| **[Ynara-Web](https://github.com/MateoGs013/Ynara-Web)** | Sitio inmersivo WebGL: una forma de luz que morfea con el scroll. **Tesis Da Vinci, 2026.** | `TypeScript` `WebGL` `GSAP` |
+| **[Eros](https://github.com/MateoGs013/eros)** | Un director creativo autónomo con su cerebro en un vault de Obsidian. | `Vue 3` `GSAP` `Lenis` |
+| **[revelado](https://github.com/MateoGs013/revelado)** | Una red social para fotógrafos, construida por fases como proyecto de la facultad. | `Vue 3` |
 
 ## Stack
 
@@ -38,35 +38,35 @@ I build **immersive web experiences** — interfaces that move, respond and feel
   <img src="https://img.shields.io/badge/MySQL-0b0b0f?style=flat-square&logo=mysql&logoColor=4479a1" alt="MySQL" />
 </p>
 
-## Contact
+## Contacto
 
 📫 **mateogabus@gmail.com**
 
 ---
 
 <details>
-<summary>🇦🇷 <strong>Versión en español</strong></summary>
+<summary>🇬🇧 <strong>English version</strong></summary>
 
 <br/>
 
-## Hola, soy Mateo 👋
+## Hey, I'm Mateo 👋
 
-Construyo **experiencias web inmersivas** — interfaces que se mueven, responden y se sienten vivas. La mayor parte de mi trabajo vive en el borde creativo del frontend: **Vue 3, GSAP, WebGL** y narrativa con smooth-scroll. También construyo lo de abajo: APIs REST, backends en Laravel y Node.
+**Full stack** developer from Argentina, 22 — happiest on the **front-end**: interfaces that move, respond and feel alive. I work at the creative edge of the web with **Vue 3, GSAP and WebGL**, and I also build what's underneath: REST APIs, Laravel and Node backends.
 
-- 🎓 Año de tesis en **Escuela Da Vinci** — promoción 2026
-- 🧠 Actualmente construyendo **[Ynara](https://github.com/BriarDevv/Ynara)**, un asistente personal de IA adaptativo y on-prem
-- 🌒 Me gustan las UIs oscuras, la tipografía editorial y las terminales
+- 🎓 Thesis year at **Escuela Da Vinci** — class of 2026
+- 🧠 Building **[Ynara](https://github.com/BriarDevv/Ynara)**, an on-prem adaptive AI personal assistant
+- 🌒 Into dark UIs, editorial typography and terminals
 
-### Proyectos destacados
+### Featured work
 
-| Proyecto | Descripción | Stack |
+| Project | About | Stack |
 | :--- | :--- | :--- |
-| **[Ynara](https://github.com/BriarDevv/Ynara)** | Asistente de IA adaptativo, on-prem y en rioplatense, con memoria cifrada semántica / episódica / procedural. **Contribuidor principal — más de 380 commits.** | `FastAPI` `Next.js` `Expo` `pgvector` `Ollama` |
-| **[Ynara-Web](https://github.com/MateoGs013/Ynara-Web)** | Sitio inmersivo WebGL: una forma de luz que morfea con el scroll. **Tesis Da Vinci, 2026.** | `TypeScript` `WebGL` `GSAP` |
-| **[Eros](https://github.com/MateoGs013/eros)** | Un director creativo autónomo con su cerebro en un vault de Obsidian. | `Vue 3` `GSAP` `Lenis` |
-| **[revelado](https://github.com/MateoGs013/revelado)** | Una red social para fotógrafos, construida por fases como proyecto de la facultad. | `Vue 3` |
+| **[Ynara](https://github.com/BriarDevv/Ynara)** | On-prem adaptive AI assistant that speaks rioplatense Spanish, with encrypted semantic / episodic / procedural memory. **Core contributor — 380+ commits.** | `FastAPI` `Next.js` `Expo` `pgvector` `Ollama` |
+| **[Ynara-Web](https://github.com/MateoGs013/Ynara-Web)** | Immersive WebGL site: a form of light that morphs as you scroll. **Da Vinci thesis, 2026.** | `TypeScript` `WebGL` `GSAP` |
+| **[Eros](https://github.com/MateoGs013/eros)** | An autonomous creative director with its brain in an Obsidian vault. | `Vue 3` `GSAP` `Lenis` |
+| **[revelado](https://github.com/MateoGs013/revelado)** | A social network for photographers, built in phases as a university project. | `Vue 3` |
 
-### Contacto
+### Contact
 
 📫 **mateogabus@gmail.com**
 
@@ -74,5 +74,4 @@ Construyo **experiencias web inmersivas** — interfaces que se mueven, responde
 
 <br/>
 
-<div align="center"><sub>hecho con 🧉 y monospace</sub></div>
-
+<div align="center"><sub>hecho con 🧉 y monospace desde Argentina</sub></div>

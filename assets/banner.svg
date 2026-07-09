@@ -1,4 +1,4 @@
-<svg width="880" height="310" viewBox="0 0 880 310" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="mateo@gabus — creative developer">
+<svg width="880" height="310" viewBox="0 0 880 310" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="mateo@sonzogni — desarrollador full stack">
   <style>
     .mono { font-family: 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, 'SF Mono', monospace; }
     .dim    { fill: #52525b; }
@@ -26,15 +26,15 @@
   <circle cx="27" cy="21" r="6" fill="#ff5f57"/>
   <circle cx="48" cy="21" r="6" fill="#febc2e"/>
   <circle cx="69" cy="21" r="6" fill="#28c840"/>
-  <text x="440" y="26" text-anchor="middle" class="mono dim" font-size="13">mateo@gabus — ~/studio</text>
+  <text x="440" y="26" text-anchor="middle" class="mono dim" font-size="13">mateo@sonzogni — ~/estudio</text>
 
   <!-- terminal body -->
   <text x="36" y="88" class="mono bright line l1" font-size="15"><tspan class="accent">➜</tspan><tspan class="dim" dx="10">~</tspan><tspan dx="10">whoami</tspan></text>
 
-  <text x="36" y="138" class="mono bright line l2" font-size="36" font-weight="700" letter-spacing="1">Mateo Gabus</text>
-  <text x="36" y="168" class="mono soft line l3" font-size="16">creative developer — immersive web experiences</text>
+  <text x="36" y="138" class="mono bright line l2" font-size="36" font-weight="700" letter-spacing="1">Mateo Sonzogni</text>
+  <text x="36" y="168" class="mono soft line l3" font-size="16">desarrollador full stack — corazón en el front-end</text>
 
-  <text x="36" y="216" class="mono bright line l4" font-size="15"><tspan class="accent">➜</tspan><tspan class="dim" dx="10">~</tspan><tspan dx="10">stack --loved</tspan></text>
+  <text x="36" y="216" class="mono bright line l4" font-size="15"><tspan class="accent">➜</tspan><tspan class="dim" dx="10">~</tspan><tspan dx="10">stack --favoritos</tspan></text>
   <text x="36" y="246" class="mono soft line l5" font-size="15">vue · gsap · webgl · three.js · lenis · laravel · node · fastapi</text>
 
   <text x="36" y="284" class="mono bright line l6" font-size="15"><tspan class="accent">➜</tspan><tspan class="dim" dx="10">~</tspan><tspan class="accent cursor" dx="10">▍</tspan></text>
