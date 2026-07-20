@@ -19,7 +19,9 @@ Desarrollador **full stack** de Argentina, 22 años — aunque donde más disfru
 | **[Ynara](https://github.com/BriarDevv/Ynara)** | Asistente de IA adaptativo, on-prem y en rioplatense, con memoria cifrada semántica / episódica / procedural. **Contribuidor principal — más de 380 commits.** | `FastAPI` `Next.js` `Expo` `pgvector` `Ollama` |
 | **[Ynara-Web](https://github.com/MateoGs013/Ynara-Web)** | Sitio inmersivo WebGL: una forma de luz que morfea con el scroll. **Tesis Da Vinci, 2026.** | `TypeScript` `WebGL` `GSAP` |
 | **[Eros](https://github.com/MateoGs013/eros)** | Un director creativo autónomo con su cerebro en un vault de Obsidian. | `Vue 3` `GSAP` `Lenis` |
-| **[revelado](https://github.com/MateoGs013/revelado)** | Una red social para fotógrafos, construida por fases como proyecto de la facultad. | `Vue 3` |
+| **[La Rúcula](https://laruculagastrobar.es/)** | Sitio editorial premium para un gastrobar frente al mar en España. **Cliente real, en producción.** | `Vue 3` `GSAP` `Lenis` |
+| **[ARG Piscinas](https://www.argpiscinas.es/)** | Web corporativa multi-idioma (ES/EN/DE) con panel admin y blog. **Cliente real, en producción.** | `Vue 3` `Node` `Prisma` |
+| **[barberpole](https://github.com/MateoGs013/barberpole)** | SaaS de turnos para peluquerías, identidad neo-brutalista. [Demo en vivo](https://parcial-2-peluqueria.vercel.app/). | `React` `Express` `MongoDB` |
 
 ## Stack
 
@@ -74,7 +76,9 @@ Programo en pareja con IA — el famoso **vibe coding**, sin esconderlo. Claude 
 | **[Ynara](https://github.com/BriarDevv/Ynara)** | On-prem adaptive AI assistant that speaks rioplatense Spanish, with encrypted semantic / episodic / procedural memory. **Core contributor — 380+ commits.** | `FastAPI` `Next.js` `Expo` `pgvector` `Ollama` |
 | **[Ynara-Web](https://github.com/MateoGs013/Ynara-Web)** | Immersive WebGL site: a form of light that morphs as you scroll. **Da Vinci thesis, 2026.** | `TypeScript` `WebGL` `GSAP` |
 | **[Eros](https://github.com/MateoGs013/eros)** | An autonomous creative director with its brain in an Obsidian vault. | `Vue 3` `GSAP` `Lenis` |
-| **[revelado](https://github.com/MateoGs013/revelado)** | A social network for photographers, built in phases as a university project. | `Vue 3` |
+| **[La Rúcula](https://laruculagastrobar.es/)** | Premium editorial site for a beachfront gastrobar in Spain. **Real client, in production.** | `Vue 3` `GSAP` `Lenis` |
+| **[ARG Piscinas](https://www.argpiscinas.es/)** | Multi-language corporate site (ES/EN/DE) with admin panel and blog. **Real client, in production.** | `Vue 3` `Node` `Prisma` |
+| **[barberpole](https://github.com/MateoGs013/barberpole)** | Appointment SaaS for hair salons, neo-brutalist identity. [Live demo](https://parcial-2-peluqueria.vercel.app/). | `React` `Express` `MongoDB` |
 
 ### How I work
 
