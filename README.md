@@ -8,7 +8,7 @@
 
 Desarrollador **full stack & creative developer** de Argentina (Técnico en Programación) — donde más disfruto es en el **front-end**: interfaces que se mueven, responden y se sienten vivas. Trabajo en el borde creativo de la web con **Vue 3, Nuxt 4, GSAP y WebGL**, combinándolo con arquitectura de backend y datos: APIs REST, FastAPI, Node, Prisma y PostgreSQL.
 
-- 🌐 **[Explorador Técnico & Portafolio en Vivo](https://portfolio-phi-rust-14.vercel.app)**
+- 🌐 **[Explorador Técnico & Portafolio en Vivo](https://mateogs.tech)**
 - 🎓 Año de tesis en **Escuela Da Vinci** — promoción 2026
 - 🧠 Co-creador de **[Ynara](https://github.com/BriarDevv/Ynara)**, asistente personal de IA adaptativo y on-prem (+380 commits)
 - 🌒 Me gustan las UIs oscuras, la tipografía editorial y las terminales
@@ -17,7 +17,7 @@ Desarrollador **full stack & creative developer** de Argentina (Técnico en Prog
 
 | Proyecto | Qué es | Stack |
 | :--- | :--- | :--- |
-| **[Portfolio Técnico](https://github.com/MateoGs013/portfolio)** | Explorador relacional de base de datos técnica, CV dual interactivo (Harvard ATS / Modern IDE) y micro-interacciones táctiles. [En producción](https://portfolio-phi-rust-14.vercel.app). | `Nuxt 4` `Vue 3` `Prisma` `PostgreSQL` |
+| **[Portfolio Técnico](https://github.com/MateoGs013/portfolio)** | Explorador relacional de base de datos técnica, CV dual interactivo (Harvard ATS / Modern IDE) y micro-interacciones táctiles. [En producción](https://mateogs.tech). | `Nuxt 4` `Vue 3` `Prisma` `PostgreSQL` |
 | **[Ynara](https://github.com/BriarDevv/Ynara)** | Asistente de IA adaptativo, on-prem y en rioplatense, con memoria cifrada semántica / episódica / procedural. **Contribuidor principal — más de 380 commits.** | `FastAPI` `Next.js` `Expo` `pgvector` `Ollama` |
 | **[Eros Career OS](https://github.com/MateoGs013/eros-agent)** | Sistema multiagente autónomo para búsqueda de empleo tech y generación omnicanal con Google Gemini Free Tier y n8n. | `Python` `FastAPI` `Gemini` `n8n` |
 | **[La Rúcula](https://laruculagastrobar.es/)** | Sitio editorial premium para un gastrobar frente al mar en España. **Cliente real, en producción.** [Código fuente](https://github.com/MateoGs013/LaRucula). | `Vue 3` `GSAP` `Lenis` |
@@ -54,8 +54,8 @@ Programo en pareja con IA — el famoso **vibe coding**, sin esconderlo. Claude 
 
 ## Contacto & CV
 
-- 🌐 **Web:** [portfolio-phi-rust-14.vercel.app](https://portfolio-phi-rust-14.vercel.app)
-- 📄 **Curriculum Vitae:** [Versión interactiva Harvard ATS / Modern IDE](https://portfolio-phi-rust-14.vercel.app/docs/about)
+- 🌐 **Web:** [mateogs.tech](https://mateogs.tech)
+- 📄 **Curriculum Vitae:** [Versión interactiva Harvard ATS / Modern IDE](https://mateogs.tech/docs/about)
 - 💼 **LinkedIn:** [linkedin.com/in/mateo-sonzogni](https://www.linkedin.com/in/mateo-sonzogni)
 - 📫 **Email:** [mateogabus@gmail.com](mailto:mateogabus@gmail.com)
 
@@ -70,7 +70,7 @@ Programo en pareja con IA — el famoso **vibe coding**, sin esconderlo. Claude 
 
 **Full stack & creative developer** from Argentina (certified Programming Technician) — happiest on the **front-end**: interfaces that move, respond, and feel alive. I work at the creative edge of the web with **Vue 3, Nuxt 4, GSAP, and WebGL**, backed by robust backend and database architecture: REST APIs, FastAPI, Node, Prisma, and PostgreSQL.
 
-- 🌐 **[Live Technical Explorer & Portfolio](https://portfolio-phi-rust-14.vercel.app)**
+- 🌐 **[Live Technical Explorer & Portfolio](https://mateogs.tech)**
 - 🎓 Thesis year at **Escuela Da Vinci** — class of 2026
 - 🧠 Co-creator of **[Ynara](https://github.com/BriarDevv/Ynara)**, an on-prem adaptive AI personal assistant (380+ commits)
 - 🌒 Into dark UIs, editorial typography, and terminal interfaces
@@ -79,7 +79,7 @@ Programo en pareja con IA — el famoso **vibe coding**, sin esconderlo. Claude 
 
 | Project | About | Stack |
 | :--- | :--- | :--- |
-| **[Technical Portfolio](https://github.com/MateoGs013/portfolio)** | Relational database explorer, interactive dual CV (Harvard ATS / Modern IDE), and tactile micro-interactions. [Live in production](https://portfolio-phi-rust-14.vercel.app). | `Nuxt 4` `Vue 3` `Prisma` `PostgreSQL` |
+| **[Technical Portfolio](https://github.com/MateoGs013/portfolio)** | Relational database explorer, interactive dual CV (Harvard ATS / Modern IDE), and tactile micro-interactions. [Live in production](https://mateogs.tech). | `Nuxt 4` `Vue 3` `Prisma` `PostgreSQL` |
 | **[Ynara](https://github.com/BriarDevv/Ynara)** | On-prem adaptive AI assistant with encrypted semantic / episodic / procedural memory. **Core contributor — 380+ commits.** | `FastAPI` `Next.js` `Expo` `pgvector` `Ollama` |
 | **[Eros Career OS](https://github.com/MateoGs013/eros-agent)** | Autonomous multi-agent system for tech job hunting and omnichannel publishing with Google Gemini Free Tier and n8n. | `Python` `FastAPI` `Gemini` `n8n` |
 | **[La Rúcula](https://laruculagastrobar.es/)** | Premium editorial site for a beachfront gastrobar in Spain. **Real client, in production.** [Source code](https://github.com/MateoGs013/LaRucula). | `Vue 3` `GSAP` `Lenis` |
@@ -93,8 +93,8 @@ I pair-program with AI — yes, **vibe coding**, out in the open. Claude Code li
 
 ### Contact & Resume
 
-- 🌐 **Web:** [portfolio-phi-rust-14.vercel.app](https://portfolio-phi-rust-14.vercel.app)
-- 📄 **Resume / CV:** [Interactive Harvard ATS / Modern IDE version](https://portfolio-phi-rust-14.vercel.app/docs/about)
+- 🌐 **Web:** [mateogs.tech](https://mateogs.tech)
+- 📄 **Resume / CV:** [Interactive Harvard ATS / Modern IDE version](https://mateogs.tech/docs/about)
 - 💼 **LinkedIn:** [linkedin.com/in/mateo-sonzogni](https://www.linkedin.com/in/mateo-sonzogni)
 - 📫 **Email:** [mateogabus@gmail.com](mailto:mateogabus@gmail.com)
 
